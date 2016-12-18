@@ -32,7 +32,6 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
 
-
 public class PoseAnno_BB_And_Joints extends JFrame implements DropTargetListener {
 
 	private static final long serialVersionUID = 1L;
